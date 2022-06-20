@@ -1,2 +1,2 @@
 # CodeRidders
- My first Wordpress website
+ my first wordpress design
